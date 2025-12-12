@@ -1,0 +1,117 @@
+DRY MOVE D:\Trae\deep agent主仓库\支付\diagnostic_test.py -> D:\Trae\deep agent主仓库\支付\tests\integration\diagnostic_test.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\file_test.py -> D:\Trae\deep agent主仓库\支付\tests\integration\file_test.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\kill_port.py -> D:\Trae\deep agent主仓库\支付\scripts\tools\kill_port.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\manual_test.py -> D:\Trae\deep agent主仓库\支付\tests\manual\manual_test.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\run_test.bat -> D:\Trae\deep agent主仓库\支付\scripts\windows\run_test.bat
+DRY MOVE D:\Trae\deep agent主仓库\支付\run_test_fixed.bat -> D:\Trae\deep agent主仓库\支付\scripts\windows\run_test_fixed.bat
+DRY MOVE D:\Trae\deep agent主仓库\支付\simple_test.py -> D:\Trae\deep agent主仓库\支付\tests\manual\simple_test.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\test.db -> D:\Trae\deep agent主仓库\支付\var\data\test.db
+DRY MOVE D:\Trae\deep agent主仓库\支付\test_alipay.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\test_alipay.ps1
+DRY MOVE D:\Trae\deep agent主仓库\支付\test_alipay_fixed.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\test_alipay_fixed.ps1
+DRY MOVE D:\Trae\deep agent主仓库\支付\test_api_debug.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_api_debug.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\test_api_debug_v2.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_api_debug_v2.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\test_checkout.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_checkout.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\test_complete_payment_flow.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_complete_payment_flow.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\test_credits.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_credits.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\test_debug.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_debug.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\test_debug_payment.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_debug_payment.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\test_metering.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_metering.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\test_metering_mock.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_metering_mock.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\test_output.log -> D:\Trae\deep agent主仓库\支付\var\log\test_output.log
+DRY MOVE D:\Trae\deep agent主仓库\支付\test_subscription_flow.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_subscription_flow.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\test_virtual_checkout.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_virtual_checkout.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\.trae\documents\Enforce Monthly Usage Limits.md -> D:\Trae\deep agent主仓库\支付\docs\internal\Enforce Monthly Usage Limits.md
+DRY MOVE D:\Trae\deep agent主仓库\支付\.trae\documents\Fix Payment Error Handling & Navigation.md -> D:\Trae\deep agent主仓库\支付\docs\internal\Fix Payment Error Handling & Navigation.md
+DRY MOVE D:\Trae\deep agent主仓库\支付\.trae\documents\Implement Dynamic Team Plan Logic.md -> D:\Trae\deep agent主仓库\支付\docs\internal\Implement Dynamic Team Plan Logic.md
+DRY MOVE D:\Trae\deep agent主仓库\支付\.trae\documents\Implement Session Auto-Recovery.md -> D:\Trae\deep agent主仓库\支付\docs\internal\Implement Session Auto-Recovery.md
+DRY MOVE D:\Trae\deep agent主仓库\支付\.trae\documents\Implement Team Plan Upgrade Flow.md -> D:\Trae\deep agent主仓库\支付\docs\internal\Implement Team Plan Upgrade Flow.md
+DRY MOVE D:\Trae\deep agent主仓库\支付\.trae\documents\Implement Tenant Visualization System.md -> D:\Trae\deep agent主仓库\支付\docs\internal\Implement Tenant Visualization System.md
+DRY MOVE D:\Trae\deep agent主仓库\支付\.trae\documents\Implement Usage Simulation Demo.md -> D:\Trae\deep agent主仓库\支付\docs\internal\Implement Usage Simulation Demo.md
+DRY MOVE D:\Trae\deep agent主仓库\支付\.trae\documents\Pass Org ID Correctly in Checkout Flow.md -> D:\Trae\deep agent主仓库\支付\docs\internal\Pass Org ID Correctly in Checkout Flow.md
+DRY MOVE D:\Trae\deep agent主仓库\支付\.trae\documents\Persist Organization ID to Verify Upgrade.md -> D:\Trae\deep agent主仓库\支付\docs\internal\Persist Organization ID to Verify Upgrade.md
+DRY MOVE D:\Trae\deep agent主仓库\支付\.trae\documents\Prevent Data Wipe on Session Init.md -> D:\Trae\deep agent主仓库\支付\docs\internal\Prevent Data Wipe on Session Init.md
+DRY MOVE D:\Trae\deep agent主仓库\支付\.trae\documents\Replicate Alipay Cashier UI 1_1.md -> D:\Trae\deep agent主仓库\支付\docs\internal\Replicate Alipay Cashier UI 1_1.md
+DRY MOVE D:\Trae\deep agent主仓库\支付\.trae\documents\多租户计费系统原型开发计划.md -> D:\Trae\deep agent主仓库\支付\docs\internal\多租户计费系统原型开发计划.md
+DRY MOVE D:\Trae\deep agent主仓库\支付\.trae\documents\多租户计费系统文档完善计划.md -> D:\Trae\deep agent主仓库\支付\docs\internal\多租户计费系统文档完善计划.md
+DRY MOVE D:\Trae\deep agent主仓库\支付\.trae\documents\实现支付宝订阅跳转 (Stripe + 模拟沙箱).md -> D:\Trae\deep agent主仓库\支付\docs\internal\实现支付宝订阅跳转 (Stripe + 模拟沙箱).md
+DRY MOVE D:\Trae\deep agent主仓库\支付\.venv\Scripts\activate.bat -> D:\Trae\deep agent主仓库\支付\scripts\windows\activate.bat
+DRY MOVE D:\Trae\deep agent主仓库\支付\.venv\Scripts\Activate.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\Activate.ps1
+DRY MOVE D:\Trae\deep agent主仓库\支付\.venv\Scripts\deactivate.bat -> D:\Trae\deep agent主仓库\支付\scripts\windows\deactivate.bat
+DRY MOVE D:\Trae\deep agent主仓库\支付\.venv\Lib\site-packages\annotated_types\test_cases.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_cases.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\.venv\Lib\site-packages\greenlet\tests\test_contextvars.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_contextvars.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\.venv\Lib\site-packages\greenlet\tests\test_cpp.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_cpp.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\.venv\Lib\site-packages\greenlet\tests\test_extension_interface.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_extension_interface.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\.venv\Lib\site-packages\greenlet\tests\test_gc.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_gc.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\.venv\Lib\site-packages\greenlet\tests\test_generator.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_generator.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\.venv\Lib\site-packages\greenlet\tests\test_generator_nested.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_generator_nested.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\.venv\Lib\site-packages\greenlet\tests\test_greenlet.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_greenlet.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\.venv\Lib\site-packages\greenlet\tests\test_greenlet_trash.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_greenlet_trash.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\.venv\Lib\site-packages\greenlet\tests\test_leaks.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_leaks.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\.venv\Lib\site-packages\greenlet\tests\test_stack_saved.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_stack_saved.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\.venv\Lib\site-packages\greenlet\tests\test_throw.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_throw.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\.venv\Lib\site-packages\greenlet\tests\test_tracing.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_tracing.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\.venv\Lib\site-packages\greenlet\tests\test_version.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_version.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\.venv\Lib\site-packages\greenlet\tests\test_weakref.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_weakref.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\.venv\Lib\site-packages\sqlalchemy\testing\suite\test_cte.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_cte.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\.venv\Lib\site-packages\sqlalchemy\testing\suite\test_ddl.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_ddl.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\.venv\Lib\site-packages\sqlalchemy\testing\suite\test_deprecations.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_deprecations.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\.venv\Lib\site-packages\sqlalchemy\testing\suite\test_dialect.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_dialect.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\.venv\Lib\site-packages\sqlalchemy\testing\suite\test_insert.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_insert.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\.venv\Lib\site-packages\sqlalchemy\testing\suite\test_reflection.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_reflection.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\.venv\Lib\site-packages\sqlalchemy\testing\suite\test_results.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_results.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\.venv\Lib\site-packages\sqlalchemy\testing\suite\test_rowcount.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_rowcount.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\.venv\Lib\site-packages\sqlalchemy\testing\suite\test_select.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_select.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\.venv\Lib\site-packages\sqlalchemy\testing\suite\test_sequence.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_sequence.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\.venv\Lib\site-packages\sqlalchemy\testing\suite\test_types.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_types.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\.venv\Lib\site-packages\sqlalchemy\testing\suite\test_unicode_ddl.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_unicode_ddl.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\.venv\Lib\site-packages\sqlalchemy\testing\suite\test_update_delete.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_update_delete.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\apps\server\integration_error_log.txt -> D:\Trae\deep agent主仓库\支付\var\log\integration_error_log.txt
+DRY MOVE D:\Trae\deep agent主仓库\支付\apps\server\start_log.txt -> D:\Trae\deep agent主仓库\支付\var\log\start_log.txt
+DRY MOVE D:\Trae\deep agent主仓库\支付\apps\server\test.db -> D:\Trae\deep agent主仓库\支付\var\data\test.db
+DRY MOVE D:\Trae\deep agent主仓库\支付\apps\server\tests\test_payment_integration.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_payment_integration.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\apps\server\tests\test_payment_unit.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_payment_unit.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\apps\server\tests\test_simple.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_simple.py
+DRY MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\.bin\acorn.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\acorn.ps1
+DRY MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\.bin\autoprefixer.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\autoprefixer.ps1
+DRY MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\.bin\baseline-browser-mapping.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\baseline-browser-mapping.ps1
+DRY MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\.bin\browserslist.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\browserslist.ps1
+DRY MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\.bin\esbuild.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\esbuild.ps1
+DRY MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\.bin\eslint.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\eslint.ps1
+DRY MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\.bin\jiti.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\jiti.ps1
+DRY MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\.bin\js-yaml.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\js-yaml.ps1
+DRY MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\.bin\jsesc.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\jsesc.ps1
+DRY MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\.bin\json5.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\json5.ps1
+DRY MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\.bin\nanoid.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\nanoid.ps1
+DRY MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\.bin\node-which.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\node-which.ps1
+DRY MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\.bin\parser.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\parser.ps1
+DRY MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\.bin\rollup.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\rollup.ps1
+DRY MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\.bin\semver.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\semver.ps1
+DRY MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\.bin\tsc.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\tsc.ps1
+DRY MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\.bin\tsserver.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\tsserver.ps1
+DRY MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\.bin\update-browserslist-db.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\update-browserslist-db.ps1
+DRY MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\.bin\vite.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\vite.ps1
+DRY MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\@typescript-eslint\typescript-estree\node_modules\.bin\semver.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\semver.ps1
+MOVE D:\Trae\deep agent主仓库\支付\apps\server\test.db -> D:\Trae\deep agent主仓库\支付\var\data\test.db
+MOVE D:\Trae\deep agent主仓库\支付\apps\server\tests\test_payment_integration.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_payment_integration.py
+MOVE D:\Trae\deep agent主仓库\支付\apps\server\tests\test_payment_unit.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_payment_unit.py
+MOVE D:\Trae\deep agent主仓库\支付\apps\server\tests\test_simple.py -> D:\Trae\deep agent主仓库\支付\tests\integration\test_simple.py
+MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\.bin\acorn.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\acorn.ps1
+MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\.bin\autoprefixer.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\autoprefixer.ps1
+MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\.bin\baseline-browser-mapping.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\baseline-browser-mapping.ps1
+MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\.bin\browserslist.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\browserslist.ps1
+MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\.bin\esbuild.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\esbuild.ps1
+MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\.bin\eslint.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\eslint.ps1
+MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\.bin\jiti.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\jiti.ps1
+MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\.bin\js-yaml.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\js-yaml.ps1
+MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\.bin\jsesc.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\jsesc.ps1
+MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\.bin\json5.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\json5.ps1
+MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\.bin\nanoid.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\nanoid.ps1
+MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\.bin\node-which.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\node-which.ps1
+MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\.bin\parser.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\parser.ps1
+MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\.bin\rollup.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\rollup.ps1
+MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\.bin\semver.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\semver.ps1
+MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\.bin\tsc.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\tsc.ps1
+MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\.bin\tsserver.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\tsserver.ps1
+MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\.bin\update-browserslist-db.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\update-browserslist-db.ps1
+MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\.bin\vite.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\vite.ps1
+MOVE D:\Trae\deep agent主仓库\支付\apps\web\node_modules\@typescript-eslint\typescript-estree\node_modules\.bin\semver.ps1 -> D:\Trae\deep agent主仓库\支付\scripts\powershell\semver.ps1
